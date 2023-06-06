@@ -50,7 +50,7 @@ const paginatedPosts = sortedPosts.slice(startPost, lastPost);
     <PostDetails post={post} />
   ) : (
     <Posts
-      posts={paginatedPosts}
+      blog={paginatedPosts}
       pageNum={currentPage}
       totalPages={totalPages.length}
     />
