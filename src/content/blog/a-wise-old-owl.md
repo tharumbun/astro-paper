@@ -1,7 +1,8 @@
 ---
+author: tharum
 title: "A wise old owl"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Dec 04 2022"
+description: "A wise old owl lived in an oak"
+pubDatetime: "2022-12-04T15:22:00Z"
 ---
 
 “A wise old owl lived in an oak, The more he has the less he spoke, The less he spoke, the more he heard, Why aren’t we all like that wise old bird?” Edward Hersey Richards
