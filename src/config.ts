@@ -57,12 +57,6 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
-    name: "Reddit",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Reddit`,
-    active: false,
-  },
-  {
     name: "Telegram",
     href: "https://t.me/tharum",
     linkTitle: `${SITE.title} on Telegram`,
