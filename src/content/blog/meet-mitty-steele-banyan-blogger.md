@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: Meet Mitty Steele Banyan Blogger
-featured: true
+featured: false
 description: "A Cambodian-born American, Mitty is a writer, photographer, and communicator"
 pubDatetime: 2023-01-15T15:22:00Z
 ---
