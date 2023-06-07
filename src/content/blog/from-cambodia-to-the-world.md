@@ -1,8 +1,8 @@
 ---
-title: "From Cambodia to the world"
-date: "2023-03-12"
-categories: 
-  - "latest"
+author: tharum
+title: From Cambodia to the world
+featured: true
+pubDatetime: 2023-03-12T15:22:00Z
 ---
 
 (Verse 1) From Cambodia to the world, he's a blogger with a voice Tharum Bun, spreading knowledge and making noise With his words and his pen, he tells stories of his land And with every post he shares, he's taking a stand
