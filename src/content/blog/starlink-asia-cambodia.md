@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: Starlink for Cambodia
-featured: true
+featured: false
 description: "Starlink coming to Cambodia soon"
 pubDatetime: 2023-01-22T15:22:00Z
 ---
