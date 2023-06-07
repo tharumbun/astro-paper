@@ -1,8 +1,8 @@
 ---
+author: tharum
 title: "Meet mathematics educator Rodwell Kov"
 description: "PRodwell is a Cambodian-American mathematics educator based in Cambodia."
-pubDate: "Jan 30 2023"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: 2023-01-30T15:22:00Z
 ---
 
 Puthearorth Rodwell Kov, also known as Rodwell, is a Cambodian-American mathematics educator based in Phnom Penh, Cambodia. I had the opportunity to speak with him about his journey from Seattle, Washington to his homeland, and how he encourages Cambodian students to develop a love for mathematics and problem solving.
