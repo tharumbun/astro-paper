@@ -1,8 +1,9 @@
 ---
-title: "Kalyan Keo"
+author: tharum
+title: Kalyan Keo
+featured: false
 description: "Keo Kalyan, a holder of master’s degree in Public Administration from the Maxwell School"
-pubDate: "Oct 01 2022"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: 2022-10-01T15:22:00Z 
 ---
 
 During a visit to Cambodia in November, US Secretary of State Hillary Clinton held a town hall meeting with 600 Cambodian youths. Of those in attendance at Chaktomuk Theater, along the riverside in Phnom Penh, 18 were allowed questions. And those questions were moderated by a 25-year-old Cambodian woman, Keo Kalyan, a holder of master’s degree in Public Administration from the Maxwell School of Citizenship and Public Affairs of Syracuse University in the US.
