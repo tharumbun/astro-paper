@@ -1,4 +1,5 @@
 ---
+author: tharum
 title: Chy Sila
 featured: true
 description: Chy Sila, the 35-year-old entrepenuer who runs Phnom Penh’s home-grown restaurant empire
