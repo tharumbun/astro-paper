@@ -1,9 +1,11 @@
 ---
+author: tharum
 title: Chy Sila
 featured: true
 description: Chy Sila, the 35-year-old entrepenuer who runs Phnom Penh’s home-grown restaurant empire
-pubDate: 2022-11-17 
+pubDate: 2022-11-17T15:22:00Z
 ---
+
 
 “You’ve got to find what you love,” says Chy Sila, the 35-year-old entrepenuer who runs Phnom Penh’s home-grown restaurant empire including BB World, Pizza World and T&C World. It has been nearly twenty years since Chy Sila began his upward climb in the business world. His first job was as a tour guide in the early 1990s. He began to save money during his two years giving tours through Phnom Penh and Siem Riep, but soon decided that the job did not offer the freedom or opportunity for upward movement that he wanted. His next career move was to an advertising agency, which he says provided holistic advertising consulting. There he learned how to create a brand, a skill that would be very useful when he began to build some of the most recognizable companies in the city.
 
