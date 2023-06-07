@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: Chy Sila
-featured: true
+featured: false
 description: "Chy Sila entrepenuer who runs Phnom Penh’s home-grown restaurant empire"
 pubDatetime: 2022-11-17T15:22:00Z
 ---
