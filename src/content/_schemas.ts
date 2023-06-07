@@ -8,6 +8,6 @@ export const blogSchema = z
     tags: z.array(z.string()).default(["others"]),
     description: z.string(),
   })
-  .strict();
+  // .strict();
 
 export type BlogFrontmatter = z.infer<typeof blogSchema>;
