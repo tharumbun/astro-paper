@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: Khmer typewriter
-featured: true
+featured: false
 description: "Who invented the Khmer typewriter"
 pubDatetime: 2023-01-29T15:22:00Z
 ---
