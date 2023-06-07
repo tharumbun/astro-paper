@@ -1,8 +1,9 @@
 ---
+author: tharum
 title: "My first book project"
+featured: false
 description: "The book will be a collection of stories of entrepreneurs and startups in Cambodia"
-pubDate: "Apr 13 2023"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: 2023-04-13T15:22:00Z
 ---
 
 Cambodia has been through some of the most turbulent times in recent history, from a devastating civil war to the brutal Khmer Rouge regime, which left the country in shambles. Despite the challenges, the country has been able to rebuild and its entrepreneurial spirit has flourished. In this book, I will delve into the world of Cambodia's startups and entrepreneurs, exploring their journeys, challenges, and triumphs.
