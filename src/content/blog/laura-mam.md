@@ -1,6 +1,7 @@
 ---
 author: tharum
 title: Laura Mam
+featured: true
 description: "Laura Tevary Mam, a Khmer-American whose music has been reaching the Khmer diaspora through the internet."
 pubDatetime: 20222-10-16T15:22:00Z
 ---
