@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: A wise old owl
-featured: false
+featured: true
 description: "A wise old owl lived in an oak"
 pubDatetime: "2022-12-04T15:22:00Z"
 ---
