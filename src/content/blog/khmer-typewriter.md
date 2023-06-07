@@ -1,8 +1,9 @@
 ---
-title: "Khmer typewriter"
+author: tharum
+title: Khmer typewriter
+featured: true
 description: "Who invented the Khmer typewriter"
-pubDate: "Jan 29 2023"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: 2023-01-29T15:22:00Z
 ---
 
 ### The beauty is in each letter and number
