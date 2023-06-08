@@ -1,8 +1,9 @@
 ---
-title: "Breaking the barrier with tech: fostering reading in rural Cambodia"
+author: tharum
+title: Breaking the barrier with tech: fostering reading in rural Cambodia
+featured: true
 description: "a Raspberry Pi-based eBook server"
-pubDate: "Mar 06 2023"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: 2023-03-30T15:22:00Z
 ---
 
 ### I believe in technology for lifelong learning.
