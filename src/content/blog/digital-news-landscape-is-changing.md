@@ -1,9 +1,11 @@
 ---
+author: tharum
 title: "The digital news landscape is changing"
-date: "2023-04-24"
-categories: 
-  - "latest"
+featured: false
+description: "Tharum Bun, 32, is an experienced voice in the Cambodian blogosphere and digital media space"
+pubDatetime: 2023-04-24T15:22:00Z
 ---
+
 
 Max Tani at Semafor wrote this magnetic headline that got my attention: "[It’s back to the future for a diminished digital news business](https://www.semafor.com/article/04/23/2023/its-back-to-the-future-for-a-diminished-digital-news-business)".
 
