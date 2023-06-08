@@ -1,17 +1,11 @@
 import { slug as slugger } from "github-slugger";
 import type { BlogFrontmatter } from "@content/_schemas";
 
-export function slugifyStr(str: string): string {
-  const extension = str.split(".").pop();
-  const name = str.replace(extension, "");
-  return slugger(name);
-}
+export const slugifyStr = (str: string) => slugger(str);
 
-export const slugify = (post: BlogFrontmatter) => {
-  const filename = post.filename;
-  return getFileNameSlug(filename);
-};
+const slugify = (post: BlogFrontmatter) =>
+  post.postSlug ? slugger(post.postSlug) : slugger(post.title);
 
-export const slugifyAll = (arr: string[]) => arr.map(str => getFileNameSlug(str));
+export const slugifyAll = (arr: string[]) => arr.map(str => slugifyStr(str));
 
 export default slugify;
