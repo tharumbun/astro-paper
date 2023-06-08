@@ -1,7 +1,7 @@
 ---
 author: tharum
 title: My blogging journey in Cambodia
-featured: true
+featured: false
 description: "Tharum Bun, 32, is an experienced voice in the Cambodian blogosphere and digital media space"
 pubDatetime: 2022-12-30T15:22:00Z
 ---
