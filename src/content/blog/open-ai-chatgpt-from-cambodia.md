@@ -3,7 +3,7 @@ author: tharum
 title: "My conversation with ChatGPT from Cambodia"
 featured: false
 description: "using ChatGPT in Cambodia"
-pubDatetime: "2022-01-04"
+pubDatetime: 2022-01-04T15:22:00Z
 ---
 
 ### How to use ChatGPT in Cambodia
