@@ -7,7 +7,6 @@ export const blogSchema = z
     title: z.string(),
     featured: z.boolean().optional(),
     tags: z.array(z.string()).default(["others"]),
-    ogImage: z.string().optional(),
     description: z.string(),
   })
   .strict();
