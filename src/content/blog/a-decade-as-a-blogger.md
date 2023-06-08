@@ -184,8 +184,8 @@ With William (Bill) E. Todd the diplomat blogger in Phnom Penh
 
 A group photo of Voice of America (Khmer service) colleagues with William Todd, the U.S. Ambassador to Cambodia
 
-The U.S. Ambassador and I share two things in common: we both are blogger; we sip [hot Americano](http://blogs.usembassy.gov/todd/2013/02/12/coffee-anyone/).
+The U.S. Ambassador and I share two things in common: we both are blogger; we sip hot Americano.
 
 Date: February 27, 2013
 
-First published on [Banyan Blog]([http://www.banyanblog.com/4/post/2014/02/tharum-bun-32-blogger.html](http://www.banyanblog.org/young-leaders/tharum-bun-32-blogger).
+First published on [Banyan Blog](http://www.banyanblog.com/4/post/2014/02/tharum-bun-32-blogger.html).
