@@ -6,7 +6,6 @@ export const blogSchema = z
     pubDatetime: z.date(),
     title: z.string(),
     featured: z.boolean().optional(),
-    draft: z.boolean().optional(),
     tags: z.array(z.string()).default(["others"]),
     ogImage: z.string().optional(),
     description: z.string(),
