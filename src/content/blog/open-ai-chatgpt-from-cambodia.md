@@ -1,8 +1,9 @@
 ---
+author: tharum
 title: "My conversation with ChatGPT from Cambodia"
+featured: false
 description: "using ChatGPT in Cambodia"
-pubDate: "Jan 04 2023"
-heroImage: "/placeholder-hero.jpg"
+pubDatetime: "2022-01-04"
 ---
 
 ### How to use ChatGPT in Cambodia
