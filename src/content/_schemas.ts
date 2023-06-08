@@ -5,6 +5,7 @@ export const blogSchema = z
     author: z.string().optional(),
     pubDatetime: z.date().optional(),
     title: z.string(),
+    url: z.string(),
     featured: z.boolean().optional(),
     tags: z.array(z.string()).default(["others"]),
     description: z.string(),
