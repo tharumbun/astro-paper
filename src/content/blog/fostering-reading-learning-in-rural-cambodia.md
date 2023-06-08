@@ -21,5 +21,3 @@ In addition, an eBook server can help to reduce the financial burden on schools.
 Finally, an eBook server can be an excellent tool for teachers. Teachers can use the server to access resources and materials for their lessons, and can even upload their own materials to share with their students. This can help to enhance the quality of education in rural areas and provide teachers with more resources to help their students succeed.
 
 I believe an eBook server based on a Raspberry Pi can be a powerful tool for rural schools in Cambodia. It can provide students with access to a vast library of educational resources, help to level the playing field, reduce the financial burden on schools, and provide teachers with more resources to enhance their lessons. With the help of this technology, we can help to ensure that all children in Cambodia have access to the education and resources they need to succeed.
-
-[You can join me to support this project!](https://tharum.com/projects/)
