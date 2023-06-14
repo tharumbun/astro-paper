@@ -1,8 +1,15 @@
 ---
-title: "Meet Sambath Meas"
-description: "Sambath Meas, a Khmer American writer on her connection to Cambodia"
-pubDate: "Dec 30 2022"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2022-12-30T15:22:00Z
+title: A conversation with Khmer American writer Sambath Meas
+postSlug: sambath-meas-cambodian-american-writer
+featured: true
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  I recently had the privilege of interviewing Sambath Meas
 ---
 
 **Sambath Meas: A Khmer American Writer on Her Connection to Cambodia, Passion for Writing, and Views on Reading**
