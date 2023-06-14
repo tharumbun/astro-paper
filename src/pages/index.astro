@@ -40,21 +40,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
       </a>
 
-      <p>From Cambodia to the world,</p>
+      <p>        <LinkButton
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://tharum.com/blog/from-cambodia-to-the-world/"
+        >
+          From Cambodia to the world
+        </LinkButton>,</p>
       <p>he's a blogger with a voice</p>
       <p>Tharum Bun, spreading knowledge and making noise</p>
       <p>With his words and his pen,</p>
       <p>he tells stories of his land</p>
-      <p>And with every post he shares, he's taking a stand...</p>
-      <p><p>
-      continue reading the 
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://tharum.com/blog/from-cambodia-to-the-world/"
-        >
-          poem
-        </LinkButton> or <a href="https://tharum.com/blog">checking my blog posts</a>.
-      </p></p>
+      <p>And with <a href="https://tharum.com/blog">every post he shares, he's taking a stand</p>
+      <p>Tharum Bun, a blogger with a heart</p> 
+      <p>He’s telling stories that set us apart</p>
+      <p>From the temples of Angkor to the streets of Phnom Penh</p>
+      <p>He’s sharing his world with us, again and again</p>      
+      
+
             
       {
         // only display if at least one social link is enabled
