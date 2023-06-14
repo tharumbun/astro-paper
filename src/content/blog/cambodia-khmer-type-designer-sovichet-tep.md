@@ -1,8 +1,14 @@
 ---
-title: "Khmer type designer Tep Sovichet"
-description: "Tep Sovichet is a young Cambodian font designer"
-pubDate: "Jan 01 2023"
-heroImage: "/placeholder-hero.jpg"
+author: Sat Naing
+pubDatetime: 2023-01-01T15:22:00Z
+title: Meet Khmer type designer Tep Sovichet
+postSlug: cambodia-khmer-type-designer-sovichet-tep
+featured: true
+draft: false
+tags:
+  - docs
+ogImage: ""
+description: Tep Sovichet is a young Cambodian font designer
 ---
 
 Tep Sovichet is a young Cambodian font designer. He’s active in the Cambodian tech community. Currently, he's a type director and co-founder of [Anagata Design](https://anagata.design/).
