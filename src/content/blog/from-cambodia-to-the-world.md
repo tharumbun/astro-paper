@@ -1,8 +1,15 @@
 ---
-title: "From Cambodia to the world"
-description: "From Cambodia to the world, he's a blogger with a voice"
-pubDate: "Mar 12 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-03-12T15:22:00Z
+title: From Cambodia to the world
+postSlug: from-cambodia-to-the-world
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  From Cambodia to the world, he is a blogger with a voice
 ---
 
 (Verse 1) From Cambodia to the world, he's a blogger with a voice Tharum Bun, spreading knowledge and making noise With his words and his pen, he tells stories of his land And with every post he shares, he's taking a stand
