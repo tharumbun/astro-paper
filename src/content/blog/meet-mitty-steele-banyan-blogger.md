@@ -1,8 +1,15 @@
 ---
-title: "Meet Mitty Steele Banyan Blogger"
-description: "A Cambodian-born American, Mitty is a writer, photographer, and communicator"
-pubDate: "Jan 15 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-01-15T15:22:00Z
+title: Meet Banyan Blogger
+postSlug: meet-mitty-steele-banyan-blogger
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  A conversation with Banyan Blogger
 ---
 
 I recently had a conversation with [Banyan Blogger Mitty Steele](http://www.banyanblog.org/). A Cambodian-born American, Mitty is a writer, photographer, and communicator. This is an unedited email interview.
