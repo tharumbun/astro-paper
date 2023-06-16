@@ -52,7 +52,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://wa.me/85578555659",
     linkTitle: `${SITE.title} on WhatsApp`,
     active: true,
   },
