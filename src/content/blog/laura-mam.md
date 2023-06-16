@@ -1,13 +1,18 @@
 ---
-title: "Laura Mam"
-description: "Laura Tevary Mam, a Khmer-American whose music has been reaching the Khmer diaspora through the internet."
-pubDate: "Oct 16 2022"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Laura Mam
+postSlug: laura-mam
+featured: true
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  Laura Tevary Mam, a Khmer-American whose music has been reaching the Khmer diaspora through the internet
 ---
 
 My dream “is to write meaningful and original Khmer and English music that is relevant to the soulsearching of the next generation of Khmer people all over the world,” said 23-yer-old Laura Tevary Mam, a Khmer-American whose music has been reaching the Khmer diaspora through the internet. “I want to bring Khmer music back to life.”
-
-![](https://tharum.com/wp-content/uploads/2022/10/laura_mam_guitar.jpg)
 
 Laura’s presence on YouTube, beginning in April 2008, has attracted millions of views, as she has used the site as a stage to perform for fans across borders and continents. She is finally beginning to receive attention from fans in Cambodia, which her parents left more than two decades ago.
 
