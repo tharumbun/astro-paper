@@ -22,8 +22,6 @@ Sambath is also a passionate advocate for literacy and education. She believes t
 
 I was inspired by Sambath's story and her dedication to her craft. She is a talented writer who is making a real difference in the world. I encourage you to check out her books and learn more about her work.
 
-![](https://tharum.com/wp-content/uploads/2022/12/sambath_meas.jpeg)
-
 ### An interview with Sambath Meas, a Cambodian-born American writer
 
 **Tharum: Please introduce yourself in 3 tweets.** **Sambath:** My name is Sambath Meas, which means treasure or wealth and gold in Khmer. My friends call me Sammi and my family and relatives call me Sros. I love going to the theater, traveling, reading, researching, and writing.
