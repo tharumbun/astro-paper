@@ -1,8 +1,15 @@
 ---
-title: "AI for Cambodia"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jan 27 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-01-27T15:22:00Z
+title: AI for Cambodia
+postSlug: rodwell
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  what if AI will solve some of the most challenging issues facing people in a country like Cambodia?
 ---
 
 If technology were meant to be solving our humanity problems, what if artificial intelligence (AI) will solve some of the most challenging issues facing people in a country like Cambodia?
