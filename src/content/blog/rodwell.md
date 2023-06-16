@@ -14,7 +14,7 @@ description:
 
 Puthearorth Rodwell Kov, also known as Rodwell, is a Cambodian-American mathematics educator based in Phnom Penh, Cambodia. I had the opportunity to speak with him about his journey from Seattle, Washington to his homeland, and how he encourages Cambodian students to develop a love for mathematics and problem solving.
 
-He shared his experiences living in the heart of Phnom Penh and his perspectives on the current state of education in Cambodia, as well as his own school, the [Rodwell Learning Center](https://www.rodwell.center/).
+He shared his experiences living in the heart of Phnom Penh and his perspectives on the current state of education in Cambodia, as well as his own school, the Rodwell Learning Center.
 
 **Tharum:** Please tell me about yourself (where were you born). Your living in the US (how did you get there?)
 
@@ -104,6 +104,3 @@ Rodwell: Oh, there are a few but these are definitely on my wish list:
 - We definitely need to restructure teacher’s salary, working hours, and rigorous requirements and evaluation
 - Parents’ involvement is so important in a child’s life. I think our education system needs to find ways to involve parents.
 
-To get in contact with Rodwell, please write an email to director at rodwell.center.
-
-Rodwell’s website: [https://www.rodwell.center/meet-rodwell.html](https://www.rodwell.center/meet-rodwell.html)
