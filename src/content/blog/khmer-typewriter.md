@@ -29,5 +29,3 @@ Prominent Cambodian scholar and intellecutal Keng Vannsak invented the Khmer typ
 The first Khmer typewriter was developed in Cambodia to accommodate the unique script of the Khmer language, which consists of 33 consonants, 24 vowels, and various diacritical marks. The typewriter became an important tool for the preservation and dissemination of the Khmer language, especially in the wake of the Khmer Rouge regime which destroyed much of the country's written heritage. The Khmer typewriter was widely used in government offices, schools, and other institutions for many years. However, with the advent of computers and the widespread use of digital technology, the use of the Khmer typewriter has declined in recent years.
 
 Fact: it is possible to refurbish an old Khmer typewriter.
-
-![](https://tharum.com/wp-content/uploads/2023/01/017FAA3D-55A4-4977-BB75-0F1270BCF316-768x1024.jpeg)
