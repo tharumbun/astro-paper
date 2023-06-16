@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2022-12-04T15:22:00Z
-title: Laura Mam
+title: How Laura Mam is using music to reconnect with her Cambodian roots
 postSlug: laura-mam
 featured: true
 draft: false
@@ -9,7 +9,7 @@ tags:
   - docs
 ogImage: ""
 description:
-  a Khmer American whose music has been reaching the Khmer diaspora through the internet
+  My email interview with Laura Mam
 ---
 
 My dream “is to write meaningful and original Khmer and English music that is relevant to the soulsearching of the next generation of Khmer people all over the world,” said 23-yer-old Laura Tevary Mam, a Khmer-American whose music has been reaching the Khmer diaspora through the internet. “I want to bring Khmer music back to life.”
