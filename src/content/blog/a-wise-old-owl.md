@@ -18,7 +18,7 @@ This poem is a simple, yet powerful reminder of the importance of listening more
 
 The final question, "Why aren’t we all like that wise old bird?" serves as a call to action for readers to reflect on their own listening habits and consider adopting the wise old bird's approach of speaking less and listening more.
 
-In essence, the poem encourages readers to practice humility, patience, and mindfulness in their interactions with others, which can ultimately lead to greater understanding and wisdom. ![](https://tharum.com/wp-content/uploads/2022/12/0A505CC8-24C0-41AE-B614-44A576F2A25F.jpeg)
+In essence, the poem encourages readers to practice humility, patience, and mindfulness in their interactions with others, which can ultimately lead to greater understanding and wisdom.
 
 \[ The four-line poem “A Wise Old Owl” is cited in print from at least 1883, but is of unknown authorship. A 1904 source (below) credits “the immortal poet Bromley.”
 
