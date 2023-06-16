@@ -9,7 +9,7 @@ tags:
   - docs
 ogImage: ""
 description:
-  A wise old owl lived in an oak
+  I acquired this old Khmer typewriter during the pandemic
 ---
 
 ### The beauty is in each letter and number
