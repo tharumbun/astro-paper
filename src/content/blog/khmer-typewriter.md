@@ -20,8 +20,6 @@ I acquired this old Khmer typewriter during the pandemic. Going deep into both t
 
 Adding this Cambodian typewriter to my collection. More work to polish.
 
-![](https://tharum.com/wp-content/uploads/2023/01/42AC974E-37CC-4FC0-8704-D707399BDE42-1024x768.jpeg)
-
 ### Who invented the Khmer typewriter?
 
 Prominent Cambodian scholar and intellecutal Keng Vannsak invented the Khmer typewriter. Keng Vannsak had many titles: philosopher, historian, linguist, professor, playwright, novelist, poet. And the Camnodian keyboard is his legacy for many generations.
