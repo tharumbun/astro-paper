@@ -13,8 +13,6 @@ description: Tep Sovichet is a young Cambodian font designer
 
 Tep Sovichet is a young Cambodian font designer. He’s active in the Cambodian tech community. Currently, he's a type director and co-founder of [Anagata Design](https://anagata.design/).
 
-![](https://tharum.com/wp-content/uploads/2023/01/tep-sovichet-1024x1024.jpg)
-
 In this interview, I asked him about his aspiration to design Khmer types. He also told me about the origin and present of Khmer scripts. He wants to design better Khmer types to better serve the audience in the digital era. He sees himself as “a medium to help bring Khmer script to another level, locally and internationally.”
 
 **Tharum:** Hi Sovichet, please introduce yourself in a few tweets.
@@ -30,9 +28,6 @@ I’m an inquisitive person. I then started to look at how someone could create 
 When you haven’t heard anything about the matter of typefaces, you don’t notice the differences. I found my answer while I was walking in a bookstore where many books with the same font are published. There were no proper typographic rules applied in them. I noticed how hard it was to read a page and how poor quality fonts were chosen to convey the feeling and meaning of the book. And it’s when I realized that a good typeface not only brings a good look to the text but it also improves the reading experience too.
 
 Since then, I committed to learning more about type design and font engineering to broaden the option and create more good quality fonts for publishers and designers.
-
-\[caption id="attachment\_1648" align="aligncenter" width="183"\]![](https://tharum.com/wp-content/uploads/2023/01/25CFCA76-25EC-4723-B909-F23DE97725C2-183x300.jpeg) Kantumruy  
-Designed by Tep Sovichet\[/caption\]
 
 **Tharum: What sets Khmer script apart from others? What are the essentials you see in it?**
 
