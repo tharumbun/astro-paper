@@ -1,8 +1,15 @@
 ---
-title: "Khmer typewriter"
-description: "Who invented the Khmer typewriter"
-pubDate: "Jan 29 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-01-29T15:22:00Z
+title: Khmer typewriter
+postSlug: khmer-typewriter
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  A wise old owl lived in an oak
 ---
 
 ### The beauty is in each letter and number
