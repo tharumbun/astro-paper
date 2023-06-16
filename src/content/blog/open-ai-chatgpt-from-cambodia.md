@@ -36,7 +36,7 @@ ChatGPT was launched on December the 1st last year. Even until early January 202
 
 Everyday on Twitter, you can see that people keep talking about how great ChatGPT is and what it can do in many fields. Scientist and author Gary Marcus wrote a bold headline "[What to Expect When You’re Expecting … GPT-4](https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting)" on his Substack newsletter The Road to AI We Can Trust.
 
-In this blog post, you'll find something I found interesting when interacting with this charming ChatGPT. ![](https://tharum.com/wp-content/uploads/2023/01/chatgpt-cambodia-1-1024x582.png)
+In this blog post, you'll find something I found interesting when interacting with this charming ChatGPT.
 
 After signing in, the first dialog message I got is:
 
@@ -45,8 +45,6 @@ After signing in, the first dialog message I got is:
 - Conversations may be reviewed by our AI trainers to improve our systems.
 - Please don't share any sensitive information in your conversations.
 - This system is optimized for dialogue. Let us know if a particular response was good or unhelpful.
-
-![](https://tharum.com/wp-content/uploads/2023/01/openai-cambodia-1024x581.png)
 
 Some use cases I've tried:
 
