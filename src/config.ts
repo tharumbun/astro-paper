@@ -42,7 +42,7 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://twitter.com/tharum",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
+    active: true,
   },
   {
     name: "YouTube",
@@ -54,12 +54,12 @@ export const SOCIALS: SocialObjects = [
     name: "WhatsApp",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on WhatsApp`,
-    active: false,
+    active: true,
   },
   {
     name: "Telegram",
     href: "https://t.me/tharum",
     linkTitle: `${SITE.title} on Telegram`,
-    active: false,
+    active: true,
   },
 ];
