@@ -1,8 +1,15 @@
 ---
-title: "Starlink for Cambodia"
-description: "Starlink coming to Cambodia soon"
-pubDate: "Jan 22 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-01-22T15:22:00Z
+title: Starlink for Cambodia
+postSlug: starlink-asia-cambodia
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  There are a few reasons why Starlink is not yet available in Cambodia
 ---
 Starlink is a satellite internet service that is currently available in select countries. It is not yet available in Cambodia. However, SpaceX, the company that owns Starlink, has said that it plans to expand the service to Cambodia in 2023.
 
