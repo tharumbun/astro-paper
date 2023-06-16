@@ -2,7 +2,7 @@
 author: tharum
 pubDatetime: 2023-01-27T15:22:00Z
 title: AI for Cambodia
-postSlug: rodwell
+postSlug: ai-for-cambodia
 featured: false
 draft: false
 tags:
