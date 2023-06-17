@@ -1,15 +1,20 @@
 ---
-title: "Unleashing the full potential of your business"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Mar 08 2023"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2023-03-08T15:22:00Z
+title: Unleashing the full potential of your business
+postSlug: bio-accelerator-program
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  My experience with BIO Accelerator Program
 ---
 
 I'm a digital media entrepreneur, and I've always been passionate about my work. But I knew that if I wanted to take my digital media startup, [Kiripost](https://kiripost.com/) (I co-founded in late-2021), to the next level, I needed some help. That's why I decided to participate in the BIO Accelerator Program.
 
 The BIO Accelerator Program is a six-month program that provides entrepreneurs with the tools and resources they need to grow their businesses. The program is open to entrepreneurs from all sectors, but it's particularly well-suited for family-run business owners and startups.
-
-![Lunch time means socializing and networking time](https://tharum.com/wp-content/uploads/2023/04/bio_program_bootcamp-1024x768.png)
 
 One of the things I loved most about the program is that it's so comprehensive. We learned everything from how to develop a business plan to how to market our products. We also had the opportunity to network with other entrepreneurs and learn from their experiences.
 
