@@ -1,8 +1,15 @@
 ---
-title: "Cambodia's tech startups"
-description: "Starting up Cambodia"
-pubDate: "Oct 01 2022"
-heroImage: "/placeholder-hero.jpg"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Tech startups in Cambodia
+postSlug: cambodia-tech-startups
+featured: false
+draft: false
+tags:
+  - docs
+ogImage: ""
+description:
+  This blog post Starting up Cambodia is a collection of my writings I wrote over the past years
 ---
 
 This blog post **Starting up Cambodia** is a collection of my writings (including notes and interviews) I wrote over the past years. It’s all about all things technology, digital, startups, Internet, and coffee culture in the heart of the Kingdom of Cambodia.
