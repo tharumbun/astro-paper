@@ -34,4 +34,4 @@ Overall, I'm so grateful for the opportunity to participate in the BIO Accelerat
 
 If you're an entrepreneur who is looking to grow your business like me, I highly encourage you to learn more about the [BIO Accelerator Program](https://www.bioaccelerators.com/). It can help you take your business to the next level, just like it did for me.
 
-The BIO Program is part of Accineur, a subsidiary of Cambodian Investors Corporation Plc, an innovation and growth platform that helps enterprises from early startups to corporates to build their capabilities and nurture innovation and creativity to reach their highest potential development in a sustainable way.
+The BIO Program is part of [Accineur](https://accineur-venture.com/), a subsidiary of Cambodian Investors Corporation Plc, an innovation and growth platform that helps enterprises from early startups to corporates to build their capabilities and nurture innovation and creativity to reach their highest potential development in a sustainable way.
