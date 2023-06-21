@@ -14,7 +14,7 @@ description:
 
 This week I started using a new web browser called Arc. It is still in beta, but quite stable. I signed up for the invite-only list in March, but didn't have a chance to really use it. Last week, a geeky friend shared the link to the waitlist, and I immediately checked my email inbox to grab the link to download it (Mac only for now).
 
-After a day, Arc has become my default browser. Well, two other browsers I use every day are Mozilla Firefox and Google Chrome.
+After a day, Arc has become my default browser. Well, three other browsers I use every day are Mozilla Firefox, Google Chrome, and Opera (built-in free VPN).
 
 Two things I like about Arc: first, its super minimalistic user interface (distraction-free in a world of digital distractions). And second, it comes with a built-in ad-blocking feature, which is great for blocking annoying ads.
 
