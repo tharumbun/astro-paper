@@ -19,3 +19,5 @@ After a day or Arc has become my default browser. Well, two other browsers I use
 Two things I like about Arc. First, its super minimalistic user interface (distraction free in a world of digital distractions). And annoying ads. It comes with my a built-in ad-blocking feature.  
 
 Anyway, have you ever heard of Netscape Navigator? 
+
+I recommend that you check it out: [https://arc.net/](https://arc.net/).
