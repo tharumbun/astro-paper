@@ -24,4 +24,4 @@ What's in a Name?
 
 Anyway, have you ever heard of Netscape Navigator?
 
-I recommend that you check it out: https://arc.net/.
+I recommend that you check it out: [https://arc.net/](https://arc.net/download/1138230166)
