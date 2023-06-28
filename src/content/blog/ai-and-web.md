@@ -27,5 +27,4 @@ It highlights both the risks and the opportunities that AI presents, and it sugg
 I find his conclusion interesting. He wrote that: 
 "Really, the changes AI is currently causing are just the latest in a long struggle in the web’s history. Essentially, this is a battle over information — over who makes it, how you access it, and who gets paid. But just because the fight is familiar doesn’t mean it doesn’t matter, nor does it guarantee the system that follows will be better than what we have now. The new web is struggling to be born, and the decisions we make now will shape how it grows."
 
-[AI is killing the old web, and the new web struggles to be born]
-(https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web)
+[AI is killing the old web, and the new web struggles to be born](https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web)
