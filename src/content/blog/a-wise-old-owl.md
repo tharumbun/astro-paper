@@ -6,7 +6,7 @@ postSlug: a-wise-old-owl
 featured: false
 draft: false
 tags:
-  - docs
+  - note
 ogImage: ""
 description:
   A wise old owl lived in an oak
