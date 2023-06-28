@@ -20,7 +20,7 @@ For example, Google is remaking search by placing AI-generated answers ahead of 
 
 Wikipedia is also facing challenges from AI. The company's information has long been repurposed by Google to furnish "knowledge panels," and in recent years, the search giant has started paying for this information. However, Wikipedia's moderators are debating how to use newly capable AI language models to write articles for the site itself.
 
-The article concludes by discussing the potential risks of AI-generated content. These risks include the spread of misinformation and the lowering of overall quality. However, the article also notes that AI has the potential to improve the web in many ways, such as by making it more accessible and informative.
+The writer concluded by discussing the potential risks of AI-generated content. These risks include the spread of misinformation and the lowering of overall quality. However, the article also notes that AI has the potential to improve the web in many ways, such as by making it more accessible and informative.
 
 It highlights both the risks and the opportunities that AI presents, and it suggests that the web is likely to undergo significant changes in the years to come.
 
