@@ -14,7 +14,7 @@ description:
 
 The Verge's senior reporter James Vincent penned a bold headline: AI is killing the old web, and the new web struggles to be born. 
 
-Im his article, he discussed how artificial intelligence (AI) is changing the web. AI language models and chatbots can generate content cheaply but at a lower quality. This means that AI will remake the web as we know it, from Google Search to Wikipedia and more.
+In his article, he discussed how artificial intelligence (AI) is changing the web. AI language models and chatbots can generate content cheaply but at a lower quality. This means that AI will remake the web as we know it, from Google Search to Wikipedia and more.
 
 For example, Google is remaking search by placing AI-generated answers ahead of data sources. This has led to some tension with sites like Reddit, which are seeing their data scraped by AI firms. Reddit is considering increasing the charges for API access in response.
 
