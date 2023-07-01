@@ -459,8 +459,6 @@ Big thank to Yarat for the invite!
 
 Kounila wrote about this celebration here: [Coming back to the Kingdom when U.S. Embassy Facebook Page has 1 million fans strong](https://blueladyblog.com/coming-back-kingdom-u-s-embassy-becomes-1-million-fans-strong/)
 
-Here’s the official U.S. Embassy Phnom Penh Facebook Page: [https://www.facebook.com/us.embassy.phnom.penh/](https://www.facebook.com/us.embassy.phnom.penh/)
-
 ### Google to unveil panoramic views of Angkor
 
 Google will unveil its Street View imagery of Angkor’s ancient temples as Cambodia is set to celebrate its Khmer New Year in April this year.
