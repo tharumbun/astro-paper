@@ -1,8 +1,15 @@
 ---
-title: "Focus on broad pattern"
-date: "2023-03-12"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Focus on broad pattern
+postSlug: focus-on-broad-pattern
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  I like how the book explores the psychological aspects of money
 ---
 
 I came across this interesting point when reading a book by Morgan Housel on a new Kindle.
