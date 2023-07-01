@@ -29,6 +29,8 @@ I find his conclusion interesting. He wrote that:
 
 [AI is killing the old web, and the new web struggles to be born](https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web)
 
+[How to think about AI](https://hls.harvard.edu/today/how-to-think-about-ai/)
+
 [AI Is a Lot of Work](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)
 
 [Inside the secret list of websites that make AI like ChatGPT sound smart](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)
