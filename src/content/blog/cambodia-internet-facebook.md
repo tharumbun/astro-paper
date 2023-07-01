@@ -85,8 +85,6 @@ This is the worse tweak ever. My tweets here (also others’)
 
 Most users will never know or notice. Nobody should ever blame Facebook.
 
-[https://www.vanityfair.com/news/2017/10/this-could-be-the-end-of-facebook-hive-podcast](https://www.vanityfair.com/news/2017/10/this-could-be-the-end-of-facebook-hive-podcast)
-
 **Interviews with the media: Cambodia and Facebook**
 
 I was quoted in this VOA News article here: [Facebook Faceplants in Cambodia.](https://www.voacambodia.com/a/cambodia-facebook/4097392.html)
