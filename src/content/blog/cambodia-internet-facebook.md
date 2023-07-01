@@ -135,8 +135,6 @@ Activists and civil society organizations use Facebook to organize and campaign 
 
 > “I see the project as both colonialist and deceptive,” Ethan Zuckerman, the director of the MIT Center for Civic Media, told me. “It tries to solve a problem it doesn’t understand, but it doesn’t need to understand the problem because it already knows the solution. The solution conveniently helps lock in Facebook as the dominant platform for the future at a moment when growth in developed markets is slowing.”
 
-[http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/](http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/)
-
 **Social Media and Cambodian Youth: It’s Not Just Facebook: Other Social Media Platforms**
 
 Moderated by The Cambodia Daily’s Online Editor Joshua Wilwohl, I was one of the panelists talking about “It’s Not Just Facebook: Other Social Media Platforms”.
