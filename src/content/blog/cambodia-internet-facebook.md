@@ -449,7 +449,7 @@ Since 2009, [SINET](https://www.sinet.com.kh/) is a specialist dedicated ISP in 
 
 This afternoon, I got an instant message from a friend. I got a last-minute invite to the U.S. Embassy in Phnom Penh as it celebrates its big social media day. The embassy’s Facebook Page reaches its milestone one million Likes. Like many countries around the world, Facebook is simply a modern media machine anyone can become publishers.
 
-With my helicopter bloggers (read this by then US Ambassador William Todd): An Effective Military-to-Military Partnership): Cartoonist and lecturer [Sovathary](http://everythingsintheworld.com/) and [Chetra Chap](http://khmerscholar.com/author/chetrachap/) who spearheads [Khmer Scholar](http://khmerscholar.com/). It’s a great to catch up and have some nice conversation about next generation of digital marketing using virtual reality and artificial intelligence.
+With my helicopter bloggers (read this by then US Ambassador William Todd): An Effective Military-to-Military Partnership): Cartoonist and lecturer Sovathary and [Chetra Chap](http://khmerscholar.com/author/chetrachap/) who spearheads [Khmer Scholar](http://khmerscholar.com/). It’s a great to catch up and have some nice conversation about next generation of digital marketing using virtual reality and artificial intelligence.
 
 From right to left: Chetra Chap, Kounila Keo, Sovathary Bon
 
@@ -468,8 +468,6 @@ Google will unveil its Street View imagery of Angkor’s ancient temples as Camb
 As previous years, Google usually chooses heated April to introduce Cambodian net users to new services or major features. In 2013, Khmer-language support was the most welcoming feature in Google Translate. Earlier, ‘Kingdom of Cambodia’ in Khmer language was designed as part the world’ most popular search engine’s logo. The history of the releases dated back to when Google began to use .KH as the country code top-level domain for Cambodia-based Internet users.
 
 The first batch of over 90 historic temples at Angkor Wat will be made available, hopefully in early April. See an example of what it’s going to look like here:
-
-[Views](https://www.google.com/maps/views/): [Bayon 사원 가는 다리](https://www.google.com/maps/views/view/109519141774210632285/photo/9-FDNKOW3fwAAAQJPpinYQ) by [고기만](https://www.google.com/maps/views/profile/109519141774210632285)
 
 What if you can have a closer look or tour some of your favorite temples virtually?
 
