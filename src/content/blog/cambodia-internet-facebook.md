@@ -1,8 +1,15 @@
 ---
-title: "Cambodia's Internet"
-date: "2022-10-01"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Cambodia's Internet
+postSlug: cambodia-internet-facebook
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  In Cambodia, Facebook is a new mainstream media
 ---
 
 In Cambodia, Facebook is a new mainstream media. It’s for everyone. Cambodians spend much of their time playing on Facebook, the world’s popular social networking website. Despite Cambodia is a hotbed for Facebook experiment, I expect that it will not affect the number of growing users. Of course, a small number of people here (including me) don’t like it.
