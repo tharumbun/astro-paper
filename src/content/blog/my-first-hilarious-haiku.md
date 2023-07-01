@@ -1,8 +1,15 @@
 ---
-title: "My haiku"
-date: "2022-10-15"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: My haiku
+postSlug: my-first-hilarious-haiku
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  My first haiku
 ---
 
 Winter is coming A cool breeze not frozen snow in the heart of Penh
