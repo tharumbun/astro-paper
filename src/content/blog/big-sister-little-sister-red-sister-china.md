@@ -1,8 +1,15 @@
 ---
-title: "Three Women at the Heart of Twentieth-Century China"
-date: "2022-10-01"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Three Women at the Heart of Twentieth-Century China
+postSlug: jin-yong
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+   I always want to read some more books by this Chinese writer
 ---
 
 Jung Chang’s Wild Swans: Three Daughters of China book gave me a glimpse into the history of China and how people lived in the past century. Mao: The Unknown Story is another book by the same author I enjoyed reading. These two books got me interested more in the history and culture of China. After reading the Wild Swan book twice (once a paperback and once the Kindle), I always want to read some more books by this Chinese writer. For me, it’s easy to read and quick to get into her stories she wrote.
