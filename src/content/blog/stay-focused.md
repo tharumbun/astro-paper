@@ -11,6 +11,7 @@ ogImage: ""
 description:
   Apple had 40 products on the market.
 ---
+Interesting to save this as a note:
 
 Shortly after Steve Jobs returned as the CEO of Apple in 1997, he met with Jony Ive, Apple’s Senior VP of industrial design.
 
@@ -70,4 +71,5 @@ It made me think of what Jerry Seinfeld identifies as the ultimate skill of the 
 
 “Everything just got simpler. That’s been one of my mantras—focus and simplicity.” — Steve Jobs
 
-Follow @bpoppenheimer for more content like this!
+
+[Steve Jobs' laser-sharp focus made Apple a world-beater. Warren Buffett takes the same approach to investing.](https://markets.businessinsider.com/news/stocks/steve-jobs-warren-buffett-apple-berkshire-focus-iphone-tech-stocks-2023-7) 
