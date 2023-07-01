@@ -73,3 +73,5 @@ It made me think of what Jerry Seinfeld identifies as the ultimate skill of the 
 
 
 [Steve Jobs' laser-sharp focus made Apple a world-beater. Warren Buffett takes the same approach to investing.](https://markets.businessinsider.com/news/stocks/steve-jobs-warren-buffett-apple-berkshire-focus-iphone-tech-stocks-2023-7) 
+
+[Focus on broad pattern](https://tharum.com/posts/focus-on-broad-pattern/)
