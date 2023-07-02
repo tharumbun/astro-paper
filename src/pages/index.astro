@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>musings from Cambodia to the world</h1>
+      <h1>Musings from Cambodia to the world</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -96,12 +96,12 @@ Get updates delivered directly to your inbox! [ powered by <a href="https://www.
     }
 
     <section id="recent-posts">
-      <h2>Recent Posts</h2>
+      <h2>My latest blog posts</h2>
       <ul>
         {
           sortedPosts.map(
             ({ data }, index) =>
-              index < 4 && (
+              index < 5 && (
                 <Card
                   href={`/blog/${slugify(data)}`}
                   frontmatter={data}
