@@ -1,8 +1,15 @@
 ---
-title: "On writing well"
-date: "2022-09-30"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: On writing well
+postSlug: on-writing-well
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  The book inspires writers to continually improve their writing
 ---
 
 "On Writing Well" is one of my favorite books that has inspired me to continuously improve my writing. It is one of several books I have in my Billy bookcase that I use to develop my writing skills and styles. The author, William Zinsser, covers many key elements that can help aspiring writers find their strengths and learn how to craft their writing. His advice encourages writers to develop their own style and voice, turning their passion into a profession. As Zinsser says, "Fighting clutter is like fighting weeds – the writer is always slightly behind. New varieties sprout overnight, and by noon they are part of American speech."
