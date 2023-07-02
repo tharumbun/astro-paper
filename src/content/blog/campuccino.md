@@ -16,7 +16,7 @@ A writing aficionado from an early age, Din Darathtey is now the author behind C
 
 Campuccino is a fortnightly newsletter that delivers the latest news headlines from Cambodia to your inbox. It was created by Darathtey Din, a Cambodian born and bred communications specialist, researcher, and culture enthusiast.
 
-Campuccino aims to provide readers with a comprehensive overview of the most important news stories from Cambodia, covering a wide range of topics from politics to economics to arts and culture. The newsletter also includes Darathtey's own insights and opinions on the news, giving readers a unique perspective on current events.
+[Campuccino](https://campuccino.substack.com/) aims to provide readers with a comprehensive overview of the most important news stories from Cambodia, covering a wide range of topics from politics to economics to arts and culture. The newsletter also includes Darathtey's own insights and opinions on the news, giving readers a unique perspective on current events.
 
 Campuccino is a valuable resource for anyone who wants to stay up-to-date on the latest news from Cambodia. It is also a great way to learn more about the country's culture and politics.
 
