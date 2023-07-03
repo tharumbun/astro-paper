@@ -6,7 +6,7 @@ postSlug: ai-for-cambodia
 featured: false
 draft: false
 tags:
-  - docs
+  - note
 ogImage: ""
 description:
   what if AI will solve some of the most challenging issues facing people in a country like Cambodia?

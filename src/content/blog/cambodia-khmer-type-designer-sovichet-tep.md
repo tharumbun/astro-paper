@@ -15,6 +15,8 @@ Tep Sovichet is a young Cambodian font designer. He’s active in the Cambodian 
 
 In this interview, I asked him about his aspiration to design Khmer types. He also told me about the origin and present of Khmer scripts. He wants to design better Khmer types to better serve the audience in the digital era. He sees himself as “a medium to help bring Khmer script to another level, locally and internationally.”
 
+### A conversation with Tep Sovichet
+
 **Tharum:** Hi Sovichet, please introduce yourself in a few tweets.
 
 Sovichet: Hi Tharum. I’m 24 years old and was born in Phnom Penh. I’m a type designer and programmer based in Phnom Penh, Cambodia. I started to code and design typefaces since 2010 all by myself. I majored in computer science but ended up working as a type designer as my main career. Currently, I’m working at [Cadson Demak, a well-known type foundry (the company that design fonts) in Thailand](https://cadsondemak.com/). I’ve been traveling to talk and teach Khmer typeface design in a few countries in the last three years.

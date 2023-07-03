@@ -6,7 +6,7 @@ postSlug: bio-accelerator-program
 featured: false
 draft: false
 tags:
-  - docs
+  - note
 ogImage: ""
 description:
   My experience with BIO Accelerator Program
