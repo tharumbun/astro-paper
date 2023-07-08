@@ -1,7 +1,7 @@
 ---
 author: tharum
 pubDatetime: 2022-12-04T15:22:00Z
-title: Three Women at the Heart of Twentieth-Century China
+title: Jin Yong
 postSlug: jin-yong
 featured: false
 draft: false
@@ -9,43 +9,19 @@ tags:
   - note
 ogImage: ""
 description:
-   I always want to read some more books by this Chinese writer
+   Jin Yong's works have a widespread reach beyond just Chinese communities
 ---
 
-Jung Chang’s Wild Swans: Three Daughters of China book gave me a glimpse into the history of China and how people lived in the past century. Mao: The Unknown Story is another book by the same author I enjoyed reading. These two books got me interested more in the history and culture of China. After reading the Wild Swan book twice (once a paperback and once the Kindle), I always want to read some more books by this Chinese writer. For me, it’s easy to read and quick to get into her stories she wrote.
+Also known as Louis Cha, Jin Yong is a renowned wuxia novelist. Wuxia refers to martial heroes, as depicted in popular works like Disney's Mulan or the Hong Kong television series The Condor Heroes.
 
-This year, I have a chance to grab two more books written by author Jung Chang. This “Big Sister, Little Sister, Red Sister: Three Women at the Heart of Twentieth-Century China” and the “Empress Dowager Cixi: The Concubine Who Launched Modern China”.
+Jin Yong's works have a widespread reach beyond just Chinese communities, with many people in countries like Cambodia being familiar with his stories from the 1980s, even if they may not know who he is.
 
-> They were the most famous sisters in China. As the country battled through a hundred years of wars, revolutions and seismic transformations, the three Soong sisters from Shanghai were at the center of power, and each of them left an indelible mark on history.
+According to Wikipedia, his works have been translated into numerous languages and have been adapted into various forms of media, making him popular not just in Chinese-speaking areas but also around the world.
 
-The story started from the poor childhood of Sun Yat-sen, who later became the President of the Republic of China (at least for short period of time).
+Jin Yong's works are popular in Asia for a number of reasons. One of the main reasons is the author's unique writing style, which seamlessly blends elements of wuxia (martial arts and chivalry), fantasy, and historical fiction.
 
-One thing that fascinated me is how Charlie Soong prepared for his daughter's education in the United States. It's quite visionary. Upon their return from the USA, these three daughters gradually too on Chinese politics and businesses through their marriages. It is as if everything were to be sorted out that way, how each of his daughter ended up with the future China's historical leaders and wealth.
+His stories are filled with complex characters, intricate plots, and a rich cultural tapestry, which have captivated readers across the region.
 
-What happened nearly a hundred years ago is now a great lesson for today. In our modern time, parents tend to do everything possible to make sure that they can give their children the best American education.
+The novelist's works have been adapted into numerous forms of media, including film, TV series, and video games, which has only served to increase their popularity and reach.
 
-The writer has never failed me for her story telling genius. She wrote the book just like she could bring me to the old time's China. While some major parts of the book were her work of research, I can say that the tales she tells is very close to her personal life. It's like she's with those characters in the story. She speaks the language. And she's one of them. More importantly, she understands their mindset.
-
-Why I really like her work. Since reading her book titled The Three Daughters of China, I could tag along with her journey of an interesting family that went through many generations.
-
-It is the biography of the Soong sisters who together made a huge impact today's China. This historical non-fiction spanned from 1866 to 2003.
-
-The quickest way to describe them: “In China there were three sisters. One loved money, one loved power, and one loved her country.”
-
-The oldest sister's name is Ei-ling, who became Chiang’s unofficial main adviser. Her husband was HH Kung, a Yale-educated banker and descendant of Confucius. She made herself one of China’s richest women.
-
-The second sister or known as Red Sister, Ching-ling, married the ‘Father of China’, Sun Yat-sen.
-
-Little Sister, May-ling, became Madame Chiang Kai-shek, first lady of pre-Communist Nationalist China.
-
-The China's three daughters were born in Shanghai, and educated at Wesleyan College in Macon, Georgia.
-
-They were at the center of power, and each of them left a mark on Chinese history.
-
-In short, thi is a story of love, war, intrigue, bravery, rise and fall, glamour and betrayal.
-
-Personally, reading the book is an enjoyable experiece of learning about Chinese politicsl history.
-
-So I'm glad that I ordered the book and read it.
-
-[Buy it on Amazon.com](https://www.amazon.com/dp/1910702781/?tag=tbun27-20) this site may earn affiliate commissions from Amazon for qualifying purchases.
+His works explore universal themes such as loyalty, courage, and honor, which resonate with people across cultures and have contributed to his lasting legacy.
