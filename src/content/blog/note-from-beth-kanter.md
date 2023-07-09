@@ -1,16 +1,16 @@
 ---
-title: "Note from Beth Kanter"
-date: "2022-10-01"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Note from Beth Kanter
+postSlug: note-beth-kanter
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  Yesterday I had a wonderful day with Tharum Bun and his family
 ---
-
-* * *
-
-title: A note from Beth Kanter, a friend since 2004 metaDescription: date: 2016-07-02 author: Tharum Bun summary: tags:
-
-- ## tech
-    
 
 _Posted date: May 22, 2016_
 
