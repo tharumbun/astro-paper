@@ -1,8 +1,15 @@
 ---
-title: "Thomas Wanhoff"
-date: "2022-09-30"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Thomas Wanhoff
+postSlug: thomas-wanhoff
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  I first met Thomas Wanhoff, a German science podcaster
 ---
 
 I first met Thomas Wanhoff, a German science podcaster, nearly 10 years ago when he relocated to Cambodia from Germany. A few years later, Thomas began traveling around East Asia. It wasn't until mid-year that he returned to Siem Reap. As always, I enjoy hearing stories from people like Thomas, so last week I met him for a coffee chat at one of his favorite places, Brown Coffee on Sisowath Quay.
