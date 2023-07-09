@@ -1,8 +1,15 @@
 ---
-title: "Meet Sophal Ear"
-date: "2011-09-30"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: Meet Sophal Ear
+postSlug: sophal-ear
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  Born in 1974 in Phnom Penh, Cambodia, Sophal Ear was raised
 ---
 
 Simply dressed in his favorite khakis and dark brown V-Neck T-shirt, Sophal Ear took to the stage in style at the Technology Entertainment and Design (TED) conference, and gave a fascinating talk on ‘escaping the Khmer Rouge,’ in February 2009 in Long Beach, California. Much known for leveraging the power of ideas to change the world, TED was founded in 1984.
