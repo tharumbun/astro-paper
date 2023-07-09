@@ -1,9 +1,17 @@
 ---
-title: "William Shakespeare's All The Worlds A Stage in Khmer"
-date: "2022-09-30"
-categories: 
-  - "latest"
+author: tharum
+pubDatetime: 2022-12-04T15:22:00Z
+title: All The Worlds A Stage in Khmer
+postSlug: all-the-world-a-stage
+featured: false
+draft: false
+tags:
+  - note
+ogImage: ""
+description:
+  All The Worlds A Stage by English playwright William Shakespeare
 ---
+
 
 ហើយ​បុរស​និង​ស្ត្រី​​​ទាំង​អស់​គ្រាន់​តែ​ជាអ្នកសម្តែង!
 
