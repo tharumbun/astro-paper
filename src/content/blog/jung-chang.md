@@ -9,7 +9,7 @@ tags:
   - note
 ogImage: ""
 description:
-  Jung Chang’s Wild Swans: Three Daughters of China book
+  Wild Swans: Three Daughters of China book
 ---
 
 Jung Chang’s Wild Swans: Three Daughters of China book gave me a glimpse into the history of China and how people lived in the past century. Mao: The Unknown Story is another book by the same author I enjoyed reading. These two books got me interested more in the history and culture of China. After reading the Wild Swan book twice (once a paperback and once the Kindle), I always want to read some more books by this Chinese writer. For me, it’s easy to read and quick to get into her stories she wrote.

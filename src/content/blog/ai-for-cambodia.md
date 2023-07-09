@@ -48,7 +48,7 @@ AI can help businesses and organizations automate tasks, allowing employees to f
 
 The implementation of AI can drive innovation and increase productivity, leading to economic growth for Cambodia.
 
-In an op-ed in February, Richard Yim, CEO of Quantum Engineering and Manufacturing, has wrote this: [AI in Cambodia: Challenges, Opportunities, and the Inevitable](https://medium.com/@richardpyim/ai-in-cambodia-challenges-opportunities-and-the-inevitable-fdc6c41786eb). I suggest that you should read his insights into this topic.
+In an op-ed in February, Richard Yim, CEO of Quantum Engineering and Manufacturing, wrote AI in Cambodia: Challenges, Opportunities, and the Inevitable](https://medium.com/@richardpyim/ai-in-cambodia-challenges-opportunities-and-the-inevitable-fdc6c41786eb). I suggest that you should read his insights into this topic.
 
 **Here are five key takeaways from Richard's take on the AI and Cambodia:**
 
