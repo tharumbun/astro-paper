@@ -1,10 +1,11 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "bookmarks"
+title: "Bookmarks"
 ---
 
 ### Some of my favorite things on the wider web:
 
+Weblogs:
 [Seth's Blog](https://seths.blog/)
 
 Web:
