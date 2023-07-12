@@ -8,7 +8,12 @@ title: "Bookmarks"
 Weblogs:
 [Seth's Blog](https://seths.blog/)
 
+
 Web:
+[Arc web browser](https://arc.net/)
 [beehiive](https://www.beehiiv.com/?via=tharum)
 [Vultr](https://www.vultr.com/?ref=9398038)
 [Linode](https://www.linode.com/lp/refer/?r=74b48a1d7ec663896dde14abf11d4b66f58f4c25)
+[Astro](https://astro.build/)
+This blog was built with Astro static site generator and with theme coded by [Sat Naing](https://satnaing.dev/)
+
