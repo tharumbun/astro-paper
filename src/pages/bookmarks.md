@@ -5,7 +5,13 @@ title: "Bookmarks"
 
 ### Some of my favorite things on the wider web:
 
+Artificial Intelligence tools (AI)
+[HugginFace](https://huggingface.co/)
+[Poeh](ttps://poe.com/)
+
+
 Weblogs:
+[Beth Kanter](https://bethkanter.org/)
 [Seth's Blog](https://seths.blog/)
 
 
