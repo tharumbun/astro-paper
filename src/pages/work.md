@@ -5,9 +5,9 @@ title: "Work"
 
 ### Some published work:
 
-Building Bridges Between Cambodia and Israel
+[From Phnom Penh to Silicon Valley](https://kiripost.com/stories/cambodia-ky-vilayvann-googler)
 
-Cambodia’s First Starlink Deployed from Vanilla Farm
+[Cambodia’s First Starlink Deployed from Vanilla Farm](https://kiripost.com/stories/cambodia-first-space-x-starlink-deployed-from-vanilla-farm-dara-chan)
 
-From Phnom Penh to Silicon Valley
+[Building Bridges Between Cambodia and Israel](https://kiripost.com/stories/cambodia-israel-relations)
 
