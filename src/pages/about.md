@@ -3,6 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 ![Alt text](../assets/tharum_bun.jpg "Tharum Bun")
+Photographed by 
+[Zakaria Zainal](https://www.zakariazainalphoto.com/)
   
 Tharum is a prominent figure in Cambodia’s digital landscape. Tharum has been blogging about media and technology in Cambodia since 2004. His work has also appeared in a number of international media outlets. He was also a contributor to Global Voices Online, a project started at the Berkman Center for Internet and Society at Harvard Law School. 
 
