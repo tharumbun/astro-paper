@@ -9,7 +9,7 @@ tags:
   - note
 ogImage: ""
 description:
-  A wise old owl lived in an oak
+  The Verge’s senior reporter James Vincent penned a bold headline
 ---
 
 The Verge's senior reporter James Vincent penned a bold headline: AI is killing the old web, and the new web struggles to be born. 
