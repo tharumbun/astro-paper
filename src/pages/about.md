@@ -8,12 +8,29 @@ Photographed by
 
 Tharum is the co-founder of [Kiripost](https://kiripost.com/), a Phnom Penh-based media startup that focuses on business and technology.
 
-Tharum is a prominent figure in Cambodia’s digital landscape. Tharum has been blogging about media and technology in Cambodia since 2004. His work has also appeared in a number of international media outlets. He was also a contributor to Global Voices Online, a project started at the Berkman Center for Internet and Society at Harvard Law School. 
+## Tharum Bun: A Cambodian Tech Trailblazer
 
-Tharum began his professional journey in the early 2000s when blogging was still a nascent phenomenon in Cambodia. Recognizing the potential of this new medium, he started his own blog, becoming one of the pioneers in the Cambodian blogging scene. Through his writings, Tharum shared his thoughts on technology and the impact of the Internet on society, establishing himself as a respected voice in the online community. 
+Tharum Bun is a multifaceted figure in Cambodia's digital landscape, with a career spanning journalism, communication, technology, and entrepreneurship. His journey began in 2004, establishing him as a pioneer in the country's burgeoning online scene.
 
-Tharum graduated from the National University of Management with a bachelor's degree in Business Administration. He is an alumnus of the International Visitor Leadership Program (IVLP), the U.S. Department of State's premier professional exchange program. Tharum is also a board member of Open Development Cambodia.
+**Early Days in Media and Online Ventures:**
 
+Bun's early involvement in the media industry shines through his contributions to the Phnom Penh Post, where he penned articles on business and technology. This period nurtured his understanding of Cambodia's evolving landscape and the potential of digital solutions. His entrepreneurial spirit further blossomed with the title "netrepreuner," hinting at early forays into online ventures.
+
+**Championing Innovation and Collaboration:**
+
+In 2007, Bun took a significant step, organizing the first BarCamp Phnom Penh. This technology conference brought together developers, designers, and enthusiasts, fostering collaboration and knowledge sharing. This event stands as a testament to his commitment to nurturing innovation and community building within the Cambodian tech ecosystem.
+
+**Communication Expertise and Leadership:**
+
+Bun's expertise in communication is evident in his current role as the Communications Lead at InSTEDD iLab Southeast Asia. Leading communication efforts for this prominent organization showcases his ability to effectively transmit complex information and engage diverse audiences. His experience extends beyond traditional media, as evidenced by his self-proclaimed title of "digital diplomat," suggesting involvement in online advocacy and cross-cultural communication.
+
+**A Dynamic and Multifaceted Individual:**
+
+Tharum Bun's career path is anything but linear. He seamlessly navigates diverse disciplines, demonstrating a deep understanding of Cambodia's digital terrain and a constant drive to contribute to its progress. Whether writing articles, organizing conferences, leading communication initiatives, or exploring entrepreneurial ventures, his dedication to innovation and community engagement remains a constant thread.
+
+**Looking Ahead:**
+
+As Cambodia's digital landscape continues to evolve, it's likely that Tharum Bun will remain at the forefront, leveraging his diverse skillset and experience to contribute to its growth and empower local communities. His journey stands as an inspiration for anyone seeking to carve their own path in the ever-changing world of technology and communication.
 
 Get updates delivered directly to your inbox! [ powered by <a href="https://www.beehiiv.com/?via=tharum">beehiive</a> ]
 <iframe src="https://embeds.beehiiv.com/96e63e4f-0eb7-40af-98c4-28c52ef000ec?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
