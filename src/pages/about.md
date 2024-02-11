@@ -22,7 +22,7 @@ In 2007, Tharum took a significant step, organizing the first BarCamp Phnom Penh
 
 **Communication Expertise and Leadership:**
 
-Tharum's expertise in communication is evident in his current role as the Communications Lead at InSTEDD iLab Southeast Asia. Leading communication efforts for this prominent organization showcases his ability to effectively transmit complex information and engage diverse audiences. His experience extends beyond traditional media, as evidenced by his self-proclaimed title of "digital diplomat," suggesting involvement in online advocacy and cross-cultural communication.
+Tharum's expertise in communication is evident in his role as the Communications Lead at InSTEDD iLab Southeast Asia. Leading communication efforts for this prominent organization showcases his ability to effectively transmit complex information and engage diverse audiences. His experience extends beyond traditional media, as evidenced by his self-proclaimed title of "digital diplomat," suggesting involvement in online advocacy and cross-cultural communication.
 
 **A Dynamic and Multifaceted Individual:**
 
