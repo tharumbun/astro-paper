@@ -11,3 +11,4 @@ title: "Work"
 
 [Building Bridges Between Cambodia and Israel](https://kiripost.com/stories/cambodia-israel-relations)
 
+[Asia’s Lasting Love Affair with Honda Super Cub](https://kiripost.com/stories/asia-lasting-love-affair-with-honda-super-cub)
