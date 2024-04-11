@@ -5,11 +5,8 @@ title: "Bookmarks"
 
 ### Some of my favorite things on the wider web:
 
-**Artificial Intelligence tools (AI)**
-
-[HugginFace](https://huggingface.co/)
-
-[Poeh](ttps://poe.com/)
+**Tech and AI**
+[The Verge](https://www.theverge.com/) / [Ars Technica](https://arstechnica.com/) / [HugginFace](https://huggingface.co/) / [Poeh](ttps://poe.com/)
 
 
 **Weblogs**
