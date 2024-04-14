@@ -6,6 +6,7 @@ title: "Bookmarks"
 ### Some of my favorite things on the wider web:
 
 **Tech and AI**
+
 [The Verge](https://www.theverge.com/) / [Ars Technica](https://arstechnica.com/) / [HugginFace](https://huggingface.co/) / [Poeh](ttps://poe.com/)
 
 
