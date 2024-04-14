@@ -56,4 +56,10 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Telegram`,
     active: true,
   },
+  {
+    name: "YouTube",
+    href: "https://www.youtube.com/c/tharumbun",
+    linkTitle: `${SITE.title} on YouTube`,
+    active: true,
+  },
 ];
