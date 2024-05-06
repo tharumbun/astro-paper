@@ -7,7 +7,7 @@ title: "Bookmarks"
 
 **Tech and AI**
 
-[The Verge](https://www.theverge.com/) / [Ars Technica](https://arstechnica.com/) / [HugginFace](https://huggingface.co/) / [Poeh](ttps://poe.com/)
+[The Verge](https://www.theverge.com/) / [Ars Technica](https://arstechnica.com/) / [HugginFace](https://huggingface.co/) / [Poeh](https://poe.com/)
 
 
 **Weblogs**
