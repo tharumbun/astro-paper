@@ -3,6 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "Work"
 ---
 
+### Explore my photographs I've taken over the years
+[available on EyeEm](https://www.eyeem.com/u/33236156)
+
 ### Some published work:
 
 [From Phnom Penh to Silicon Valley](https://kiripost.com/stories/cambodia-ky-vilayvann-googler)
