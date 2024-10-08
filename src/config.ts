@@ -21,6 +21,12 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "EyeEm",
+    href: "https://www.eyeem.com/u/33236156",
+    linkTitle: `${SITE.title} on EyeEm`,
+    active: true,
+  },
+  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/tharum/",
     linkTitle: `${SITE.title} on LinkedIn`,
