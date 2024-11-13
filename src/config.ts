@@ -21,9 +21,9 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "EyeEm",
-    href: "https://www.eyeem.com/u/33236156",
-    linkTitle: `${SITE.title} on EyeEm`,
+    name: "Spotify",
+    href: "https://open.spotify.com/show/2RgCIPvDjARrkcrkrhFeDn?si=481ad67f19d34860",
+    linkTitle: `${SITE.title} on Spotify`,
     active: true,
   },
   {
@@ -48,12 +48,6 @@ export const SOCIALS: SocialObjects = [
     name: "Telegram",
     href: "https://t.me/tharum",
     linkTitle: `${SITE.title} on Telegram`,
-    active: true,
-  },
-  {
-    name: "YouTube",
-    href: "https://www.youtube.com/c/tharumbun",
-    linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
 ];
