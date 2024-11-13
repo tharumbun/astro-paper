@@ -21,12 +21,6 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Spotify",
-    href: "https://open.spotify.com/show/2RgCIPvDjARrkcrkrhFeDn?si=481ad67f19d34860",
-    linkTitle: `${SITE.title} on Spotify`,
-    active: true,
-  },
-  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/tharum/",
     linkTitle: `${SITE.title} on LinkedIn`,
