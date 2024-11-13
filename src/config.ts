@@ -33,21 +33,9 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Facebook",
-    href: "https://www.facebook.com/tharumbun",
-    linkTitle: `${SITE.title} on Facebook`,
-    active: false,
-  },
-  {
     name: "Mail",
     href: "mailto:tharum@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/tharum",
-    linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
   {
