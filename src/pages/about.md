@@ -6,7 +6,7 @@ title: "About"
 Photographed by 
 [Zakaria Zainal](https://www.zakariazainalphoto.com/)
 
-Tharum is the co-founder of [Kiripost](https://kiripost.com/), a Phnom Penh-based media startup that focuses on business and technology.
+Tharum is the co-founder of [Kiripost](https://kiripost.com/) and [Kiripost Khmer](https://kiripostkhmer.com/), a Phnom Penh-based media startup that focuses on business and technology.
 
 ## Tharum Bun: A Cambodian Tech Trailblazer
 
