@@ -10,9 +10,11 @@ title: "Books"
 
 [Start-up Nation: The Story of Israel's Economic Miracle](https://www.amazon.com/dp/0446541478?tag=tbun27_cambodia-20)
 
-[Steve Jobs by Walter Isaacson](https://www.amazon.com/dp/1451648537?tag=tbun27_cambodia-20)
-
 [The Psychology of Money by Morgan Housel](https://www.amazon.com/dp/0857197681?tag=tbun27_cambodia-20)
+
+**Novels by Walter Isaacson:**
+[Steve Jobs](https://www.amazon.com/dp/1451648537?tag=tbun27_cambodia-20)
+[Elon Musk](https://www.amazon.com/dp/1982181281?tag=tbun27_cambodia-20)
 
 **Novels by Dan Brown:**
 [The Da Vinci Code](https://www.amazon.com/dp/0385504209?tag=tbun27_cambodia-20)
@@ -26,5 +28,10 @@ title: "Books"
 [Original](https://www.amazon.com/dp/0525563709?tag=tbun27_cambodia-20)
 
 [Digital Fortress](https://www.amazon.com/dp/0312944926?tag=tbun27_cambodia-20)
+
+**Novels by Ayn Rand:**
+[The Fountainhead](https://www.amazon.com/dp/0452286751?tag=tbun27_cambodia-20)
+[The Fountainhead](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
+
 
 
