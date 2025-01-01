@@ -1,6 +1,6 @@
 ---
 author: tharum
-pubDatetime: 2025-01-01T07:00:00Z
+pubDatetime: 2025-01-01T11:22:00Z
 title: Kiripost Khmer
 postSlug: kiripost-khmer
 featured: false
