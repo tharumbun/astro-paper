@@ -33,7 +33,7 @@ title: "Books"
 
 **Novels by Ayn Rand:**
 [The Fountainhead](https://www.amazon.com/dp/0452286751?tag=tbun27_cambodia-20)
-[The Fountainhead](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
+[Atlas Shrugged](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
 
 
 
