@@ -2,6 +2,10 @@
 layout: ../layouts/AboutLayout.astro
 title: "Books"
 ---
+
+Over the years, here are some of the books I have read.
+Do you have book suggestions for me to read? If so, please send me an email!
+
 ### Some of my favorite read :
 
 [The Circle](https://www.amazon.com/dp/0385351399?tag=tbun27_cambodia-20)
@@ -41,6 +45,7 @@ title: "Books"
 [Digital Fortress](https://www.amazon.com/dp/0312944926?tag=tbun27_cambodia-20)
 
 **Novels by Ayn Rand:**
+
 [The Fountainhead](https://www.amazon.com/dp/0452286751?tag=tbun27_cambodia-20)
 
 [Atlas Shrugged](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
