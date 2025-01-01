@@ -1,6 +1,6 @@
 ---
 author: tharum
-2024-12-31T23:59:00Z
+pubDatetime: 2024-12-31T23:59:00Z
 title: Kiripost Khmer
 postSlug: kiripost-khmer
 featured: false
@@ -12,7 +12,7 @@ description:
  
 ---
 
-**Kiripost Khmer** is a Khmer-language version of Kiripost, a media platform aimed at delivering news, stories, and insights relevant to Cambodians. Its primary goal is to connect with a wider audience by providing content in the native language, ensuring accessibility for those who primarily read and engage in Khmer.
+[**Kiripost Khmer**](https://kiripostkhmer.com/) is a Khmer-language version of [Kiripost](https://kiripost.com), a media platform aimed at delivering news, stories, and insights relevant to Cambodians. Its primary goal is to connect with a wider audience by providing content in the native language, ensuring accessibility for those who primarily read and engage in Khmer.
 
 ### **What is it for?**
 - **Empowering Khmer Readers:** It caters to Cambodian audiences who prefer consuming information in their native language.  
