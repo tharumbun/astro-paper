@@ -9,7 +9,7 @@ tags:
   - note
 ogImage: ""
 description:
- 
+ Kiripost Khmer is a Khmer-language version of Kiripost, a media platform aimed at delivering news, stories, and insights relevant to Cambodians.
 ---
 
 [**Kiripost Khmer**](https://kiripostkhmer.com/) is a Khmer-language version of [Kiripost](https://kiripost.com), a media platform aimed at delivering news, stories, and insights relevant to Cambodians. Its primary goal is to connect with a wider audience by providing content in the native language, ensuring accessibility for those who primarily read and engage in Khmer.
