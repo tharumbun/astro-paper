@@ -8,6 +8,14 @@ Do you have book suggestions for me to read? If so, please send me an email!
 
 ### Some of my favorite read :
 
+**By Jung Chang:**
+
+[Wild Swans: Three Daughters of China](https://www.amazon.com/dp/0743246985?tag=tbun27_cambodia-20)
+
+[Big Sister, Little Sister, Red Sister: Three Women at the Heart of Twentieth-Century China](https://www.amazon.com/dp/B07VQN78NR?tag=tbun27_cambodia-20)
+
+[Mao: The Unknown Story](https://www.amazon.com/dp/B000FDJ3AK?tag=tbun27_cambodia-20)
+
 [The Circle](https://www.amazon.com/dp/0385351399?tag=tbun27_cambodia-20)
 
 [Harry Potter by J. K. Rowling](https://www.amazon.com/dp/0545162076?tag=tbun27_cambodia-20)
