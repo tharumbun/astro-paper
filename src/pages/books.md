@@ -58,5 +58,12 @@ Do you have book suggestions for me to read? If so, please send me an email!
 
 [Atlas Shrugged](https://www.amazon.com/dp/0525948929?tag=tbun27_cambodia-20)
 
+<small>This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and other affiliated sites.
+
+As an Amazon Associate, we earn from qualifying purchases. This means that when you click on certain links and make a purchase, we may receive a commission at no additional cost to you.
+
+The affiliate income helps support the maintenance and content creation of this site. We only recommend products or services that we believe will add value to our visitors.
+
+Thank you for supporting our site!</small>
 
 
